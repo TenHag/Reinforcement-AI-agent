@@ -1,8 +1,5 @@
-pygame
-torch
-
-Enum
-os
-collections
-numpy
-IPython
+ipython==8.14.0
+matplotlib==3.7.2
+numpy==1.24.2
+pygame==2.5.2
+torch==2.1.0
